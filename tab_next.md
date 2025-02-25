@@ -3,8 +3,8 @@ title: next
 displaytext:  Next Meeting
 layout:  null
 tab: true
-order: 2
-tags: meettings
+order: 1
+tags: memphis
 ---
 
 ## Next Meeting is Friday March 7th 2025
