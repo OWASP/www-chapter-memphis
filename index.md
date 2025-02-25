@@ -9,8 +9,6 @@ Memphis, TN, USA
 
 ---
 
-<div style='color:red;'>
-
 What is OWASP Memphis? Well... we don't really know yet! I'm assuming you already know what OWASP is if you've gotten here; several local infosec professionals decided we need to be proactive in organizing so we started MEMSEC, which has included DC901 and Memphis2600, and so we figured we should include OWASP as well. 
 
 We have been meeting every first Friday of the month at the University of Memphis in the [FedEx Institute of Technology (FIT)](https://www.openstreetmap.org/search?query=365+Innovation+Dr%2C+Memphis%2C+TN+38152) building, room 225
