@@ -21,7 +21,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-[CTF featuring Ostrich Lab!](https://www.meetup.com/memphis-technology-user-groups/events/306354790/) Friday, March 7th, 2025
+Info Comming soon....
 
 ---
 {% include chapter_events.html group=page.meetup-group %}
