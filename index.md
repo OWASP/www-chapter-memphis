@@ -22,7 +22,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-Info Comming soon....
+April 4th, 2025 - Walkthrough of using OWASP ZAP MiTM proxy and Web Application Attacks 
+(https://www.meetup.com/memphis-technology-user-groups/events/306969513/)[https://www.meetup.com/memphis-technology-user-groups/events/306969513/
+]
+
 
 ---
 {% include chapter_events.html group=page.meetup-group %}
