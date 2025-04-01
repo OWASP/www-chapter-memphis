@@ -5,6 +5,7 @@ site_side: true
 tags: memphis
 level: 3
 country: USA
+region: North America
 postal-code: 38111
 ---
 
